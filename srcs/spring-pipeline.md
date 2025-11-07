@@ -1,9 +1,9 @@
 # Architecture diagram:
 ## For On-premise:
-![On-premise](assets1/local.png)
+![On-premise](../static-assets/images/local.png)
 
 ## For cloud:
-![Cloud](assets1/aws.png)
+![Cloud](../static-assets/images/aws.png)
 
 # Pipeline for On-premise:
 ```groovy
