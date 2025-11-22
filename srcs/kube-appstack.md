@@ -15,7 +15,7 @@
   High-performance Golang backend that puts you in full control: enable/disable add-ons on the fly, monitor cluster resources in real-time, and manage deployments with a single API call.[Explore the repo](https://github.com/mdshihabuddin01/k8s-appstack-go-backend)
 
 - **Kube AppStack Provisioner**  
-  Dynamic, multi-platform Kubernetes provisioner supporting on-premise, cloud, and hybrid environments. Spin up fully configured clusters anywhere with zero manual effort.[Explore the repo](https://github.com/mdshihabuddin01/jenkins-shared-lib1)
+  Dynamic, multi-platform Kubernetes provisioner supporting on-premise, cloud, and hybrid environments. Spin up fully configured clusters anywhere with zero manual effort.[Explore the repo](https://github.com/mdshihabuddin01/k8s-appstack-dynamic-provisioner)
 
 - **Kube AppStack Helm Charts**  
   Production-ready Helm chart for one-click deployment and upgrades of the entire Kube AppStack suite—versioned, testable, and GitOps friendly.[Explore the repo](https://github.com/mdshihabuddin01/k8s-appstack-charts)
